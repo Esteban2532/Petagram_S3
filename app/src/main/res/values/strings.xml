@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="nombreMascota">Firulais</string>
+    <string name="contadorMascota">0000</string>
+    <string name="titulo">Pentagram</string>
+
+    </resources>
